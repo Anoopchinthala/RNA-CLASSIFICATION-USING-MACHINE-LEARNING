@@ -1,0 +1,11 @@
+
+# Python version
+python>=3.8
+
+# Core dependencies
+pandas
+tqdm
+scikit-learn
+matplotlib
+seaborn
+xgboost
