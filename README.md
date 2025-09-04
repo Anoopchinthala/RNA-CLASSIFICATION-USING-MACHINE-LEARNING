@@ -49,8 +49,8 @@ The aim is to classify RNA sequences (PCT/mRNA vs LNC) based on their sequence p
 - Evaluation: Compare models using multiple metrics (accuracy, F1, R², ROC).
 
 ## Contributors
-Ch. Thilak Adithya 
-S. Shyam Prasad 
-Ch. Anoop Rao 
-S. Hari Prasad 
+Ch. Thilak Adithya <br>
+S. Shyam Prasad <br>
+Ch. Anoop Rao <br>
+S. Hari Prasad <br>
 
